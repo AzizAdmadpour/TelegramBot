@@ -1,0 +1,15 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "THE TELEGRAM ROBOT",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Bot.js"
+  },
+  "author": "aziz ahmadpour",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.11.2"
+  }
+}
